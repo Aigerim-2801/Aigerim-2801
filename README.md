@@ -4,6 +4,10 @@
 # 💫 About Me:
 👯 Open to work<br>🌱 I’m currently learning Android developing<br>💬 How to reach me <a href="mailto:aykerim.berdimurat@gmail.com">aykerim.berdimurat@gmail.com</a><br>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
