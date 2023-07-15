@@ -11,5 +11,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aigerim-2801&show_icons=true&locale=en&layout=compact" alt="aigerim-2801" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aigerim-2801&show_icons=true&locale=en" alt="aigerim-2801" /></p>
-
