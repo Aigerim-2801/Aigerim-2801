@@ -6,7 +6,7 @@
 </a>
 
 # 💫 About Me:
-👯 Open to work<br>🌱 I’m currently learning Android developing<br>💬 How to reach me <a href="mailto:aykerim.berdimurat@gmail.com">aykerim.berdimurat@gmail.com</a><br>
+👯 Open to work<br>🌱 I’m currently learning Android developing<br>💬 How to reach me <a href="mailto:aykerim.berdimurat@gmail.com">aykerim.berdimurat@gmail.com</a><br> 🏆 Know about my experience <a href="https://drive.google.com/file/d/1CtFjAPQglaPngUOfxQYJiMLrVnX-Q7ve/view?usp=sharing">CV<a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
