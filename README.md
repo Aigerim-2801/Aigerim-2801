@@ -2,7 +2,7 @@
 <h3 align="center">Android developer</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <div class="tenor-gif-embed" data-postid="5120639" data-share-method="host" data-aspect-ratio="1.205" data-width="100%"><a href="https://tenor.com/view/robot-android-dance-grooving-gif-5120639">Robot Android GIF</a>from <a href="https://tenor.com/search/robot-gifs">Robot GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </a>
 
 # 💫 About Me:
