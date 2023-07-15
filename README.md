@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aigerim</h1>
 <h3 align="center">Android developer</h3>
 
+# 💫 About Me:
+👯 Open to work<br>🌱 I’m currently learning Android developing<br>💬 How to reach me <a href="mailto:aykerim.berdimurat@gmail.com">aykerim.berdimurat@gmail.com</a><br>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aigerim-berdimurat-1964a0214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aigerim-berdimurat-1964a0214/" height="30" width="40" /></a>
