@@ -6,7 +6,7 @@
 </a>
 
 # 💫 About Me:
-👯 Open to work<br>🌱 I’m currently learning Android developing<br>💬 How to reach me <a href="mailto:aykerim.berdimurat@gmail.com">aykerim.berdimurat@gmail.com</a><br> 🏆 Know about my experience <a href="https://drive.google.com/file/d/1CtFjAPQglaPngUOfxQYJiMLrVnX-Q7ve/view?usp=sharing">CV<a>
+👯 Open to work<br>🌱 I'm a result-oriented Junior Android Developer with 3 months experience in mobile app development using Kotlin and the Android SDK. I has strong problem-solving skills and ability to learn quickly, and I'm committed to delivering high-quality results on time.<br>💬 How to reach me <a href="mailto:aykerim.berdimurat@gmail.com">aykerim.berdimurat@gmail.com</a><br> 🏆 Know about my experience <a href="https://drive.google.com/file/d/1CtFjAPQglaPngUOfxQYJiMLrVnX-Q7ve/view?usp=sharing">CV<a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
