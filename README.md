@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aigerim</h1>
-<h3 align="center">Android developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://miro.medium.com/v2/resize:fit:800/1*zzTEyTwyy7jXibtqVWg84Q.gif">
